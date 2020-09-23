@@ -1,0 +1,15 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\bin\Debug\Date Calculator.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date_Calculator.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Date Calculator\Date Calculator\obj\Debug\Date Calculator.pdb
